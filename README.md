@@ -9,6 +9,8 @@ More details about the ESC-50 data: https://github.com/karolpiczak/ESC-50
 
 More details about VGG16 model - https://neurohive.io/en/popular-networks/vgg16/
 
+More details about Log Mel Spectrograms - https://towardsdatascience.com/getting-to-know-the-mel-spectrogram-31bca3e2d9d0
+
 For more cough sound recordings data, check out IISc CoSwara project at https://github.com/iiscleap/Coswara-Data
 
 
