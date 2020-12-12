@@ -1,7 +1,7 @@
 # cough-detection-with-transfer-learning for COVID symptom tracker
  Cough detection with Log Mel Spectrogram, Wavelet Transform, Deep learning and Transfer learning concepts.
  
-•	A computer vision and deep learning (with transfer learning framework) for detection of cough sounds in the presence of other common household sounds. 
+•	A computer vision and deep learning (with transfer learning) framework for detection of cough sounds in the presence of other common household sounds. 
 •	Log Mel spectrogram and Wavelet transform images were obtained for sound data samples (ESC-50)
 •	A Convolutional Neural Networks based pretrained model "VGG16" was trained on this image dataset to detect cough sounds with high test accuracy. 
   
