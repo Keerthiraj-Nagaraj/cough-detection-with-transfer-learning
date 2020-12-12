@@ -1,0 +1,5 @@
+store data (all the folders with same names) from ESC-50 data in this directory
+
+I removed data to reduce the size of repository. 
+
+link  - https://github.com/karolpiczak/ESC-50
